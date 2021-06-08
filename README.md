@@ -276,6 +276,6 @@
 
 书籍全部来源于网络其他人的整理，我这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：1554479264@qq.com
 
-[![Page Views Count](https://badges.toozhao.com/badges/01EMGX8NNAHHYKVNQAYHSE2G3K/green.svg)](https://badges.toozhao.com/badges/01EMGX8NNAHHYKVNQAYHSE2G3K/green.svg "Get your own page views count badge on badges.toozhao.com")
+[![Page Views Count](https://badges.toozhao.com/badges/01F7N9JRYNPNQVTXN2N9A71AYZ/green.svg)](https://badges.toozhao.com/stats/01F7N9JRYNPNQVTXN2N9A71AYZ "Get your own page views count badge on badges.toozhao.com")
 
 
